@@ -1,6 +1,6 @@
 
      set linesize 90
-	 cd "C:\Users\garret\Box Sync\CEGA-Programs-BITSS\1_Events\2_RT2\2017_RT2_Berkeley\RT2Berkeley2017\2-StataMarkdoc" 
+	 cd "C:\Users\garret\Box Sync\CEGA-Programs-BITSS\1_Events\2_RT2\2017_RT2_London\RT2London2017\2-StataMarkdoc" 
 	//change this for your computer, or just do:
 	*di c(pwd)
 	*local drive = substr("`c(pwd)'", 1, 2)
@@ -95,7 +95,7 @@
      qui log close
 
     *markdoc example, replace export(html) install mathjax                        
-     markdoc example, replace export(docx)
+     *markdoc example, replace export(docx)
      *markdoc example, replace export(tex) texmaster
-     *markdoc example, replace
+     markdoc example, replace
      *markdoc example, replace export(epub)

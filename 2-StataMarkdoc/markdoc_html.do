@@ -1,4 +1,4 @@
-   *cd "C:\Users\garret\Box Sync\CEGA-Programs-BITSS\1_Events\3_Workshops-Seminars\UCMerced\UCMerced2017\3-StataMarkdoc" 
+   *cd "C:\Users\garret\Box Sync\CEGA-Programs-BITSS\1_Events\2_RT2\2017_RT2_London\RT2London2017\2-StataMarkdoc" 
 	//change this for your computer, or try:
 	di c(pwd)
 	local drive = substr("`c(pwd)'", 1, 2)
