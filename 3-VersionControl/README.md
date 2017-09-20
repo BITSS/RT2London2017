@@ -1,7 +1,7 @@
 <!--YAML HEADER
 ---
 title : Introduction to git using GitHub Desktop
-part of : BITSS RT2 Berkeley June 2017 Workshop
+part of : BITSS RT2 London September 2017 Workshop
 time : 3 hours
 author: Garret Christensen
 affiliation: UC Berkeley
@@ -10,7 +10,7 @@ affiliation: UC Berkeley
 
 Git & GitHub Desktop Workshop
 ==============================
-BITSS RT2 Berkeley 2017
+BITSS RT2 London 2017
 ------------------------------
 by Garret Christensen
 
