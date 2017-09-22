@@ -5,7 +5,7 @@ clear all
 set more off 
 version 12.1
 //change this next line as necessary
-cd "C:\Users\garret\Box Sync\CEGA-Programs-BITSS\1_Events\2_RT2\2017_RT2_Berkeley\RT2Berkeley2017\2-StataLaTeX"
+cd "C:\Users\garret\Box Sync\CEGA-Programs-BITSS\1_Events\2_RT2\2017_RT2_London\RT2London2017\2-StataLaTeX"
 //Or, just use this little trick to automatically use the current directory
 *di c(pwd)
 *local drive = substr("`c(pwd)'", 1, 2)

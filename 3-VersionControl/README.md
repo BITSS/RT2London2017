@@ -1,4 +1,3 @@
-<!--YAML HEADER
 ---
 title : Introduction to git using GitHub Desktop
 part of : BITSS RT2 London September 2017 Workshop
@@ -6,7 +5,7 @@ time : 3 hours
 author: Garret Christensen
 affiliation: UC Berkeley
 ---
--->
+
 
 Git & GitHub Desktop Workshop
 ==============================
@@ -194,6 +193,8 @@ Between the experimental branch and the main branch, make and commit some confli
 * View the conflict (`<<<<<<<` `=======` and `>>>>>>>`), resolve the conflict by editing the weird part out of the file yourself, saving, and committing.
 
 There's a conflict tutorial [here](https://bids.github.io/2017-01-12-ucb/lessons/git/).
+
+To understand the notation, read [this explainer](https://muse.union.edu/dvorakt/review-of-statas-dyndoc/).
 
 ### Publishing (pushing and pulling):
 
